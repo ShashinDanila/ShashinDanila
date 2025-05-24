@@ -19,9 +19,13 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd284Z2RqNjd1cnFyemhvbmlpM2FvdmlkejV1MjBycHg0ZnF4M2J1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" width="600" height="300"/>
 </div>
 
+Обо мне :
 
-
-
+- Я Дата Аналитик  из России, в рабочие дни использую Python, SQL, Excel, Bi системы.<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmd2ODgweWJseTNsaTQ3YTBhb3NmZW1wdHdlMWQxYTlueGI3bXQ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MBCodZbEhb2jSNUZNd/giphy.gif" width="35">
+- Изучаю мат. статистику и A/B тестрование.
+- Решаю LeetCode, предпочитаю принимать решения на основе данных.
+- В свободное време пишу электронную музыку, занимаюсь спортом.
+- Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/danyaaynadd)
 
 
 
